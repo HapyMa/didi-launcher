@@ -1,0 +1,43 @@
+{
+  "apps": [
+    {
+      "key": "launcher",
+      "role": "车机桌面",
+      "name": "迪迪桌面",
+      "en": "DidiLauncher",
+      "pkg": "com.didi.launcher",
+      "desc": "车机主屏。分屏画中画、默认桌面接管、日志回传与热更新。",
+      "versionName": "9.29",
+      "versionCode": 111,
+      "apk": "DidiLauncher-v9.29.apk",
+      "sha256": "B9E486981C5C23E510C0B09676D70332290891F3D7857747A77DC9DDD087F8AF",
+      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncher-v9.29.apk?sharecode=HN5HWIBV2W"
+    },
+    {
+      "key": "carremote",
+      "role": "车机被控端",
+      "name": "迪迪远控",
+      "en": "DidiCarRemote",
+      "pkg": "com.didi.carremote",
+      "desc": "被控端常驻服务。接收手机端指令并在车机侧执行。",
+      "versionName": "1.8",
+      "versionCode": 9,
+      "apk": "DidiLauncherCarRemote-v1.8.apk",
+      "sha256": "B94EA16FCE84AEAF82408CD89929EBA6B172A0AB27FF3CAE3A74FA72400EC798",
+      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncherCarRemote-v1.8.apk?sharecode=HN5HWIBV2W"
+    },
+    {
+      "key": "remote",
+      "role": "手机遥控",
+      "name": "迪迪遥控",
+      "en": "DidiRemote",
+      "pkg": "com.didi.remote",
+      "desc": "手机端。连接车机、下发指令、回传诊断日志。",
+      "versionName": "0.44",
+      "versionCode": 44,
+      "apk": "DidiLauncherRemote-v0.44.apk",
+      "sha256": "65AB678C4EEDEB08C77AC2262CCE096899D340B9D6BB0BAD6F172FAE453D06F6",
+      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncherRemote-v0.44.apk?sharecode=HN5HWIBV2W"
+    }
+  ]
+}
