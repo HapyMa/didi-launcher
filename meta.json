@@ -7,11 +7,11 @@
       "en": "DidiLauncher",
       "pkg": "com.didi.launcher",
       "desc": "车机主屏。分屏画中画、默认桌面接管、日志回传与热更新。",
-      "versionName": "9.32",
-      "versionCode": 114,
-      "apk": "DidiLauncher-v9.32.apk",
-      "sha256": "8BB711715C70CA8E3B0986FC8EE7D0BB0049C70961B04330B636E3B22E97DFDD",
-      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncher-v9.32.apk?sharecode=HN5HWIBV2W"
+      "versionName": "9.33",
+      "versionCode": 115,
+      "apk": "DidiLauncher-v9.33.apk",
+      "sha256": "970BD356504DF561244BD0713777ACA92342ECC1A45528BDCFF547A5C66C4ECB",
+      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncher-v9.33.apk?sharecode=HN5HWIBV2W"
     },
     {
       "key": "carremote",
@@ -23,7 +23,7 @@
       "versionName": "1.9",
       "versionCode": 10,
       "apk": "DidiLauncherCarRemote-v1.9.apk",
-      "sha256": "8B523AB50ED7049D69F11C0577CAA38F984F77ACEA6E2F899D2FF20DA57448A5",
+      "sha256": "A3D51210DDA7A2C7016F1B7720CA7715205FF66A8E11128697A44ECDF096CC7F",
       "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncherCarRemote-v1.9.apk?sharecode=HN5HWIBV2W"
     },
     {
