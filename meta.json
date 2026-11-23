@@ -7,11 +7,11 @@
       "en": "DidiLauncher",
       "pkg": "com.didi.launcher",
       "desc": "车机主屏。分屏画中画、默认桌面接管、日志回传与热更新。",
-      "versionName": "9.35",
-      "versionCode": 117,
-      "apk": "DidiLauncher-v9.35.apk",
-      "sha256": "5927781B74CD05E12CE6BCEA661F51919303CD13A805F35CEB05400174781AFE",
-      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncher-v9.35.apk?sharecode=HN5HWIBV2W"
+      "versionName": "9.36",
+      "versionCode": 118,
+      "apk": "DidiLauncher-v9.36.apk",
+      "sha256": "B0F183FC2C3EA3EB9A07D2D18B6462B2B504A8DEE350E41CA79E4A4E2D02D836",
+      "downloadUrl": "https://didi-launcher-cloud-91345.app.workbuddy.host/files/DidiLauncher-v9.36.apk?sharecode=HN5HWIBV2W"
     },
     {
       "key": "carremote",
